@@ -2,7 +2,7 @@
  * =============================================
  * Project: LibraLink - Library Management System
  * Authors: Mark Yien Molina, Justine Lee Arcilla, Renz Kylle Lara, 
- *          Anghel Lagrimas, Jhon Lloyd B. Barela
+ *          Anghel Lagrimas, Jhon Lloyd B. Barela [2411017, 2412587, 2410971, 2412851, 2412601]
  * Date: 12/16/2025
  * Description:A GUI based library management system using Map and Array data structures.
  * =============================================
@@ -744,4 +744,5 @@ document.addEventListener('DOMContentLoaded', () => {
         document.getElementById("loginPage").style.display = "flex";
         document.getElementById("appContainer").style.display = "none";
     }
+
 });
